@@ -1,6 +1,6 @@
 Starting contents
 
-return "Hello, I'm Gittie!!"
+return "Hello, I'm Gittie"
 
 
 function joke() {
