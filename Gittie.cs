@@ -1,7 +1,9 @@
 Starting contents
 
-return "Hello, I'm Gittie!!"
-
+function introduce()
+{
+return "Hello, I'm Gittie!!!" //modified
+}
 
 function joke() {
 return "hahaha"
