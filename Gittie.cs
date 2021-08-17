@@ -2,7 +2,7 @@ Starting contents
 
 function introduce()
 {
-return "Hello, I'm Gittie!!!" //modified
+return "Hello, I'm Gittie!" //modified
 }
 
 function joke() {
